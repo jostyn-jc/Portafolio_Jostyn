@@ -1,2 +1,3 @@
 # Portafolio_Jostyn
 Proyecto de lógica de la programación 
+Este proyecto es un programa sencillo hecho en Python para crear contraseñas. El sistema te pide cuántos caracteres quieres y verifica que escribas un número de 4 en adelante para que la contraseña sea segura. El repositorio contiene el archivo generador_de__contraseña.py junto con el diagrama de flujo generador de contraseñas.jpg que explica cómo funciona todo el proceso. Para ejecutarlo, solo abre la terminal y escribe python generador_de__contraseña.py. Actualmente, el proyecto tiene lista la parte inicial de la configuración y estamos trabajando junto la docente en las siguientes funciones.
